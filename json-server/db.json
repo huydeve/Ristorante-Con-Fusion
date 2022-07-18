@@ -201,6 +201,13 @@
       "comment": "It's your birthday, we're gonna party!",
       "author": "25 Cent",
       "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 0,
+      "author": "dasdasdas",
+      "comment": "dasdas",
+      "date": "2022-07-18T03:45:47.203Z",
+      "id": 20
     }
   ],
   "promotions": [
@@ -263,6 +270,46 @@
       "message": "afadsfds",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
+    },
+    {
+      "firstname": "Hai Huy",
+      "lastname": "Luong",
+      "telnum": "312321312312",
+      "email": "huylnhse150294@fpt.edu.vn",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "đâsdasda",
+      "id": 2
+    },
+    {
+      "firstname": "Luong Nguyen",
+      "lastname": "Huy",
+      "telnum": "234234234234",
+      "email": "haihuy147@gmail.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "đâsd",
+      "id": 3
+    },
+    {
+      "firstname": "Hai Huy",
+      "lastname": "Luong",
+      "telnum": "3412312312",
+      "email": "haihuy129@gmail.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "312312",
+      "id": 4
+    },
+    {
+      "firstname": "David",
+      "lastname": "Luong",
+      "telnum": "312312312",
+      "email": "lozvai123@gmail.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "3123123",
+      "id": 5
     }
   ]
 }
